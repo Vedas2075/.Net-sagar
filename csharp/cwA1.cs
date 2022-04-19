@@ -7,15 +7,15 @@ void comparision()
 
     if(a>b){
         if(a>c){
-            Console.WriteLine("Number one is gretest");
+            Console.WriteLine("a is gretest");
         }
         else{
-            Console.WriteLine("Number three is greater");
+            Console.WriteLine("c is greater");
         }
         else if(b>c){
-            Console.Write("Number two is the largest");
+            Console.Write("b is the largest");
         else{
-         Console.Write("Number three is the largest");
+         Console.Write("c is the largest");
             }
         }
     }
