@@ -1,9 +1,9 @@
 
 void comparision()
 {
-    a=20;
-    b=30;
-    c=41;
+    byte a=20;
+    byte b=30;
+    byte c=41;
 
     if(a>b){
         if(a>c){
